@@ -1,0 +1,46 @@
+[
+#LOGINS#
+[
+#USERNAME | PASSWORD#
+["123","123"],
+["234","234"]
+],#
+#LOCATIONS#
+{
+#SOUTHAMPTON#
+"Southampton":
+[
+"Pizza","Pasta","Risotto","Lasagna","Ravioli",
+"Dumplings","Chow Mein","Spring Rolls","Fried Rice","Noodles",
+"Waffles","Pizza","Doughnut","Pancakes","Burrito",
+"Steak","Burger","Ribs","Sausages","Fish"
+],#
+
+#WATERLOOVILLE#
+"Waterlooville":
+[
+"Pizza","Pasta","Risotto","Lasagna","Ravioli",
+"Dumplings","Chow Mein","Spring Rolls","Fried Rice","Noodles",
+"Waffles","Pizza","Doughnut","Pancakes","Burrito",
+"Steak","Burger","Ribs","Sausages","Fish"
+],#
+
+#PORTSMOUTH#
+"Portsmouth":
+[
+"Pizza","Pasta","Risotto","Lasagna","Ravioli",
+"Dumplings","Chow Mein","Spring Rolls","Fried Rice","Noodles",
+"Waffles","Pizza","Doughnut","Pancakes","Burrito",
+"Steak","Burger","Ribs","Sausages","Fish"
+]#
+},#
+
+#TYPES#
+{
+#ITALIAN
+"italian":["Pizza","Pasta","Risotto","Lasagna","Ravioli"],
+"chinese":["Dumplings","Chow Mein","Spring Rolls","Fried Rice","Noodles"],
+"fast food":["Waffles","Pizza","Doughnut","Pancakes","Burrito"],
+"western food":["Steak","Burger","Ribs","Sausages","Fish"]
+}#
+]
